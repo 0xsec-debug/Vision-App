@@ -1,0 +1,17 @@
+# AI Vision App - All 15 Features
+Flask
+Flask-CORS
+Werkzeug
+tensorflow
+scikit-learn
+numpy
+pandas
+opencv-python
+opencv-contrib-python
+mediapipe
+Pillow
+python-dotenv
+requests
+easyocr
+pyzbar
+matplotlib
